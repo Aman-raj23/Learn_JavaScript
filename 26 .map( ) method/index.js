@@ -1,10 +1,22 @@
-let numbers = [1, 2, 3, 4, 5];
+let numbers = [10, 20, 30];
+
+let result = numbers.map((num, index, arr) => {
+    return `Element: ${num}, Index: ${index}, From Array: [${arr}]`;
+});
+
+console.log(result);
+
+
+//================================
+
+
+let nums = [1, 2, 3, 4, 5];
 
 const cube = (element) => {
     return Math.pow(element, 3);
 }
 
-let result = numbers.map(cube);
+let res = nums.map(cube);
 console.log(result);
 
 
@@ -19,7 +31,7 @@ const upperCase = (element) => {
 
 
 const lowerCase = (elements) => {
-    return (elements.toLowerCase());
+    return elements.toLowerCase();
 }
 
 
