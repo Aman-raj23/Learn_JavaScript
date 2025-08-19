@@ -1,0 +1,40 @@
+body{
+    background-color: #d0d0d0;
+}
+
+h1{
+    text-align: center;
+    color: #5d00f3;
+    font-size: 40px;
+    text-decoration: underline;
+    text-shadow: #b5cf36 2px 2px 2px;
+}
+
+#label{
+    display: block;
+    font-family: monospace;
+    text-align: center;
+    font-size:10em;
+    color: rgb(9, 72, 0);
+    border: 2px solid black;
+    width: 20%;
+    margin: auto;
+    
+}
+
+#btnContainer{
+    text-align: center;
+}
+
+.btn{
+    font-size: 2em;
+    font-family: serif;
+    border-radius: 7px;
+    cursor: pointer;
+    background-color: rgb(115, 209, 236);
+    transition: ease-in-out 0.2s;
+}
+
+.btn:hover{
+    background-color: rgb(23, 111, 199);
+}

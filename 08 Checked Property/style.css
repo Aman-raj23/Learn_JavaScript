@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 20px;
+}
+
+#submit{
+    margin-left: 30px;
+}

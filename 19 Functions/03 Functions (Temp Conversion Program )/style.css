@@ -1,0 +1,57 @@
+body{
+    background-color: hsl(0, 0%, 90%);
+}
+
+h1{
+    text-align: center;
+    color: hsl(240, 100%, 56%);
+}
+form {
+    width: 50%;
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: auto;
+    margin-top: 70px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 10px 15px 20px hsla(0, 0%, 0%, 0.31);
+}
+
+#temp{
+    border-radius: 5px;
+    padding:5px;
+    width: 50%;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.radio-group {
+    justify-content: center;
+    margin: 12px;
+    line-height: 1.5em;
+    font-size: 1.5em;
+}
+
+button{
+    background-color: hsl(240, 43%, 47%);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: hsl(240, 43%, 37%);
+}
+
+#result{
+    font-size: 1.5em;
+    border: 1px solid hsl(143, 100%, 56%);
+    border-radius: 5px;
+    padding: 8px;
+    display: inline-block;
+    margin-top: 10px;
+}
