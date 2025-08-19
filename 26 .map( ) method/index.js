@@ -17,6 +17,20 @@ const upperCase = (element) => {
     return (element.toUpperCase());
 }
 
+
+const lowerCase = (elements) => {
+    return (elements.toLowerCase());
+}
+
+
 let stu = students.map(upperCase);
+let stu2 = students.map(lowerCase);
 console.log(stu); 
+console.log(stu2);
+
+
+//======================================
+
+
+// let fruits = [""]
 
