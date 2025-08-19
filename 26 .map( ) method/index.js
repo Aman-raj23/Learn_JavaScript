@@ -7,3 +7,16 @@ const cube = (element) => {
 let result = numbers.map(cube);
 console.log(result);
 
+
+//=====================================
+
+
+let students = ["Marco", "Romio", "Don", "Shaka"];
+
+const upperCase = (element) => {
+    return (element.toUpperCase());
+}
+
+let stu = students.map(upperCase);
+console.log(stu); 
+
