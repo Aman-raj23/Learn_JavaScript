@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1><u>reduce() method</u></h1>
+    <p>The reduce() method executes a reducer function on each element of an array, resulting in a single output
+        value.<br> Or, <br> The reduce() method reduce the elements of an array to a single value. <br>
+        It’s commonly used for sums, products, averages, or building objects from arrays.</p>
+    <p>Syntax: <br>
+        array.reduce((accumulator, currentValue, index, array) => {
+        return updatedAccumulator;
+        }, initialValue); <br>
+        <ul>
+            <li>accumulator = value carried over each iteration (starts as initialValue).</li>
+            <li>currentValue = current element being processed.</li>
+            <li>initialValue = optional starting value (if not provided, it takes the first array element).</li>
+        </ul>
+    </p>
+
+    <script src="index.js"></script>
+</body>
+
+</html>

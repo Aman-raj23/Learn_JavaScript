@@ -27,3 +27,13 @@ console.log(passedStu.length);
 
 let failedStud = marks.filter(failed);
 console.log(failedStud);
+
+
+
+//==============================
+
+let ages = [12, 17, 18, 25, 14, 30];
+
+let adults = ages.filter(age => age >= 18);
+
+console.log(adults);
