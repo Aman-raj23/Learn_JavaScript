@@ -21,6 +21,3 @@ const occurance = (acc, fruit) => {
 
 let count = fruits.reduce(occurance, {});
 console.log(count);
-
-
-// gvvdzhhgc d
