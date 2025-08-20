@@ -34,6 +34,6 @@ function display(element){
 
 }
 numbers.forEach(square);
-numbers.forEach((element, index, array)=>{array[index] = Math.pow(element, 3);});  // Another way of writing
+numbers.forEach((element, index, array)=>{array[index] = Math.pow(element, 3);});  // Another way of writing (function expression)
 numbers.forEach(display);
 
