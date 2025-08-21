@@ -8,9 +8,15 @@ let result = add(5, 10);
 console.log(result);
 
 
-
-
 //--------With Arrow Functions--------//
 
 const add2 = (a, b) => {console.log(a + b)};
 add2(5, 14);
+
+
+//---------------------------------------
+
+
+const user = (name, age) => { console.log(`Name: ${name}\nAge: ${age}`);}
+user("Raj", 20);
+
