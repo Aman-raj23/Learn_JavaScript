@@ -1,9 +1,11 @@
 
 for(i = 10; i > 0; i--) {
-    document.write("Countdown : " +i+ "<br>")
+    console.log("Countdown : " +i+ "<br>")  
 }
-document.write("Happy Birthday");
+console.log("Happy Birthday");
 
+
+//=============================
 
 let p = 13;  
 for (let q = 1; q <= 10; q++) {  
