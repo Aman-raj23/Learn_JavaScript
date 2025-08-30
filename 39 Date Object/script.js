@@ -36,7 +36,7 @@ console.log(today.getTime());
 
 
 
-// %%%%%%%%%%%% Set Methods %%%%%%%%%%%%%%%
+// %%%%%%%%%%%%% Set Methods %%%%%%%%%%%%%%%
 
 let datee = new Date();
 datee.setFullYear(2030);
@@ -49,7 +49,7 @@ console.log(datee);
 
 
 
-// %%%%%%%%%%%% FORMATTING DATES %%%%%%%%%%%%%%
+// %%%%%%%%%%%% FORMATTING DATES %%%%%%%%%%%%%%%
 
 let to_day = new Date();
 
