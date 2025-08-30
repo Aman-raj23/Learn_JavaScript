@@ -13,8 +13,12 @@ This repo is designed to help beginners and intermediate learners understand Jav
 
 ---
 
-## 🎯 Mini Projects
-Along with basics, you’ll also find **mini-projects** (like a Number Guessing Game) to practice JavaScript concepts in a fun and practical way.  
+## 🛠 Mini Projects
+Along with examples, you’ll also find **small projects** to practice:
+- Number Guessing Game   
+- Counter Program ⏱  
+- And more coming soon...  
+
 
 ---
 
