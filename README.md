@@ -28,4 +28,4 @@ I am currently exploring **Advanced JavaScript**, and new folders will be added 
 ---
 
 ## 🙌 Credits
-This project is created and maintained by **owner:Aman-raj23**.  
+This project is created and maintained by [Aman Raj](https://github.com/Aman-raj23).
