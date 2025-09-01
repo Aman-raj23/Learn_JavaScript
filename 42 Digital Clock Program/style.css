@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(38, 40, 1);
+    background-image: url(bgImage.jpg);
+    color:rgb(22, 145, 22);
+    letter-spacing: 4px;
+    font-family: 'Wallpoet', sans-serif;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: cen
+
+}
+
+.clock-container{
+    display:flex;
+    justify-content: center;
+    margin-top: 220px;
+    font-size: 150px;
+    color: cyan;
+    font-weight: bold;
+    text-align: center;
+    /* font-family: "Orbitron", sans-serif; */
+    font-family: 'Wallpoet', sans-serif;
+    transform: scaleY(1.5); 
+    display: inline-block;
+    letter-spacing: 6px;
+    backdrop-filter: blur(2px);
+    border-radius: 5px;
+    text-shadow: 
+      2px 2px 0 #117a91, 
+      4px 4px 0 #0b4e4c;  
+}    
