@@ -7,8 +7,10 @@ function clock() {
     const minutes = now.getMinutes().toString().padStart(2, 0);
     const seconds = now.getSeconds().toString().padStart(2, 0);
     const time = `${hours}:${minutes}:${seconds} ${meridiem}`;
+    const date = now.toDateString();
 
-    document.getElementById('clock').textContent = time;
+    document.getElementById('time').textContent = time;
+    document.getElementById('date').textContent = date;
 
 }
 
