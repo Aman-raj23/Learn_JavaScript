@@ -1,0 +1,76 @@
+body {
+    background-color: hsl(0, 0%, 72%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#h1 {
+    color: hsla(0, 0%, 0%, 0.937);
+    font-size: 4vw;
+
+}
+
+#sWatch-container {
+    background-color: rgba(0, 255, 234, 0.364);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-family: monospace;
+    border-radius: 5vw;
+    padding: 2vw;
+    margin: 8vw;
+    border-style: ridge;
+    border-width: 7px;
+    box-shadow: 5px 7px 5px rgba(48, 48, 48, 0.785) ;
+
+}
+
+#display {
+    font-size: 5vw;
+    font-weight: bold;
+    padding: 1vw;
+    margin-bottom: 1vw;
+    text-shadow: 2px 2px hsla(0, 3%, 40%, 0.292), 4px 4px hsla(0, 0%, 1%, 0.297);
+
+}
+
+#buttons button {
+    font-family: serif;
+    color: white;
+    font-size: 1.5vw;
+    padding: 0.5vw 1.6vw;
+    border: none;
+    border-radius: 0.5vw;
+    cursor: pointer;
+
+}
+
+#startBtn {
+    background-color: hsl(128, 77%, 31%);
+}
+
+#startBtn:hover {
+    background-color: hsl(120, 100%, 20%);
+}
+
+#stopBtn {
+    background-color: hsla(0, 100%, 50%, 0.852);
+
+}
+
+#stopBtn:hover {
+    background-color: hsla(0, 100%, 40%, 0.852);
+}
+
+
+#resetBtn {
+    background-color: hsla(218, 100%, 50%, 0.832);
+}
+
+#resetBtn:hover {
+    background-color: hsla(218, 100%, 40%, 0.832);
+
+}
