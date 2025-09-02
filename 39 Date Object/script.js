@@ -7,8 +7,8 @@ console.log(date);
 
 
 //%%%%%%%%%% Specific Date %%%%%%%%%%%%
-// Date(year, month, day, hour,  minute, second, ms)
 
+// Date(year, month, day, hour,  minute, second, ms)
 
 let birthday = new Date("2006-10-30");
 console.log(birthday);
@@ -57,3 +57,10 @@ console.log(to_day.toDateString());
 console.log(to_day.toTimeString());  
 
 console.log(to_day.toISOString());    
+
+
+//=========================
+
+
+let now = Date.now();
+console.log(now);
