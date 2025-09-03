@@ -20,22 +20,25 @@
 
 //----------------------------------------
 
-function CALCULATE(callback, subtract, x, y) {
+function CALCULATE(xyz, subtract, x, y) {
     console.log(`Result:-`);
-    callback(x, y);
+    xyz(x, y);
     subtract(x ,y);
 }
 
-let add = (x,y) => {
+function add(x,y){
     let result = x + y;
-    console.log(`Additon: ${result}`);
+    console.log (`Additon: ${result}`);
 }
+// let add = (x, y) => {
+//     let result = x + y;
+//     console.log(`Additon: ${result}`);
+// }
 
 let subtract = (x, y) => {
     let result = (y - x);
     console.log(`Subtraction: ${result}`);
 }
-
 
 CALCULATE(add, subtract, 7, 15);
 
