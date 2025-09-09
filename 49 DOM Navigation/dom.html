@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOM Navigation</title>
+</head>
+<body>
+  <div id="parent">
+    <p id="item1">Item 1</p>
+    <p id="item2">Item 2</p>
+    <p id="item3">Item 3</p>
+  </div>
+
+  <button onclick="showParent()">Show Parent of Item 2</button>
+  <button onclick="showChildren()">Show Children of Parent</button>
+  <button onclick="showSiblings()">Show Siblings of Item 2</button>
+
+  <p id="output"></p>
+
+  <script src="dom.js"></script>
+</body>
+</html>
