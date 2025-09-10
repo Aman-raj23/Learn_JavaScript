@@ -17,7 +17,7 @@ This repo is designed to help beginners and intermediate learners understand Jav
 Along with examples, you’ll also find **small projects** to practice:
 - Number Guessing Game   
 - Counter Program ⏱  
-- And more coming soon...  
+- And more coming soon....
 
 
 ---
