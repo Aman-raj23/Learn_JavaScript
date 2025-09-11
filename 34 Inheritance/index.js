@@ -7,6 +7,7 @@ class User {
     sayAge() {
         console.log(`AND I'M ${this.age} YEARS OLD`);
     }
+    
 }
 
 class User1 extends User {
