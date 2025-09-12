@@ -18,8 +18,7 @@ Along with examples, you’ll also find **small projects** to practice:
 - Number Guessing Game   
 - Counter Program ⏱  
 - And more coming soon....
-
-
+  
 ---
 
 ## 📚 Learning in Progress
