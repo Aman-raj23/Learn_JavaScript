@@ -1,4 +1,4 @@
-# Learn JavaScript 🚀
+# Learn JavaScript 🚀 
 
 Welcome to the **Learn JavaScript** repository!  
 This repo is designed to help beginners and intermediate learners understand JavaScript through structured examples and small projects.  
