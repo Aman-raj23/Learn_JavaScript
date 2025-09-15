@@ -9,8 +9,8 @@ This repo is designed to help beginners and intermediate learners understand Jav
 - Each folder contains a specific **JavaScript concept** (e.g., Variables, Loops, Functions, etc.).
 - Inside every folder:
   - `index.html` → contains definitions and explanation notes.  
-  - `index.js` / `script.js` → contains the working JavaScript code.  
-
+  - `index.js` / `script.js` → contains the working JavaScript code.
+  - 
 ---
 
 ## 🛠 Mini Projects
@@ -25,7 +25,6 @@ Along with examples, you’ll also find **small projects** to practice:
 I am currently exploring **Advanced JavaScript**, and new folders will be added here as I learn.  
 
 ---
-
 
 ## 🙌 Credits
 This project is created and maintained by [Aman Raj](https://github.com/Aman-raj23).
