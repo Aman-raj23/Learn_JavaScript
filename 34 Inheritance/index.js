@@ -4,7 +4,8 @@ class User {
         console.log(`HEY! MY NAME IS ${this.name}`);
     }
 
-    sayAge() {
+    sayAge() 
+    {
         console.log(`AND I'M ${this.age} YEARS OLD`);
     }
 }
