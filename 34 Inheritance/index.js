@@ -52,3 +52,4 @@ class Dog extends Animal {
 let dog1 = new Dog("Tommy");
 dog1.sound();
 dog1.bark(); 
+
