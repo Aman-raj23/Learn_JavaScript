@@ -3,7 +3,6 @@ var name = "Raj";
 console.log(name); // Raj
 
 
-
 // let = block-scoped, value can change
 
 let age = 20;
@@ -42,7 +41,6 @@ console.log("Items outside block:", items);             // 3
 
 
 //================== const exapmle ===========================
-
 
 const accountNumber = "1234-5678";      // fixed, cannot change
     console.log("Account:", accountNumber);
