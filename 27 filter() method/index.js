@@ -10,7 +10,6 @@ console.log(result);
 
 //===============================
 
-
 let marks = [33, 45, 73, 27, 30, 90];
 
 const passed = (element) => {
