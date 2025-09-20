@@ -5,7 +5,6 @@ console.log(maximum);
 console.log(max);
 
 
-
 let myName = "Aman Raj";
 let letters = [...myName]; // Using the spread operator to convert a string into an array of characters
 let letters1 = [...myName].join("~"); // Using the spread operator to convert a string into an array of characters and then joining them with a tilde
