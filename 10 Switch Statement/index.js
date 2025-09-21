@@ -2,7 +2,8 @@ const days = document.getElementById("days");
 const checkday = document.getElementById("checkday");
 const result = document.getElementById("result");
 
-checkday.onclick = function() {
+checkday.onclick = function() 
+{
 
     const dayValue = Number(days.value);
 
