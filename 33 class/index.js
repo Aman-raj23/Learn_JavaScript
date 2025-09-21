@@ -4,6 +4,7 @@ class Student{
         this.name = name;
         this.branch = branch;
     }
+    
     // we declare a method in class 
     displayData(){
         console.log("id: "+this.id+", Name: "+this.name+", Branch: "+this.branch );
