@@ -20,7 +20,6 @@ student2.displayData();
 
 //================== e.g->2 ==========================
 
-
 class Person {
     constructor(name, age) {
         this.name = name;  
