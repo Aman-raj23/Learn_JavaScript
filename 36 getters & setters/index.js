@@ -14,7 +14,6 @@ class Person {
     }
   }
 
-
   // Getter
   get name() {
     return this._name;
