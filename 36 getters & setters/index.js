@@ -4,7 +4,6 @@ class Person {
     this._age = age;
   }
 
-
   // Setter
   set name(newName) {
     if (newName.length > 0) {
