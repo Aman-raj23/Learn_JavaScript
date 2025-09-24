@@ -19,7 +19,6 @@ let colors = ["blue", "red", "green", "black", "pink"];
 console.log(colors);
 
 
-
 // =============== e.g-3 (ASSIGN ELEMENTS OF ARRAY IN VARIABLES)=============
 
 
