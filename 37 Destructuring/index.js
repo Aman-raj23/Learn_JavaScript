@@ -21,7 +21,6 @@ console.log(colors);
 
 // =============== e.g-3 (ASSIGN ELEMENTS OF ARRAY IN VARIABLES)=============
 
-
 let colors1 = ["blue", "red", "green", "black", "pink"];
 
 [c1, c2, c3, ...extraColors] = colors1;
