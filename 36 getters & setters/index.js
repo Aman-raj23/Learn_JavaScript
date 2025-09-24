@@ -33,7 +33,6 @@ console.log(person1.name);
 
 //%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
 class Employee {
   constructor(name, salary) {
     this._name = name;
