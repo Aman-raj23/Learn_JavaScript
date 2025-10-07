@@ -72,6 +72,7 @@ try {
 
     console.log(result);
 } 
+    
 catch (err) {
     if (err instanceof ProductNotFoundError) {
         console.error("Product Error:", err.message);
