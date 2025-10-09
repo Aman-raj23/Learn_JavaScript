@@ -10,8 +10,6 @@ let result = sum(1, 2, 3, 4, 5);
 console.log(result);
 
 
-
-
 function intro(firstName, lastName, ...hobbies) {
     console.log(`Name: ${firstName} ${lastName}`);
     console.log(`Hobbies: ${hobbies.join(", ")}`);
