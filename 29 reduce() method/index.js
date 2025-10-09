@@ -1,6 +1,6 @@
 let money = [20, 42, 15, 30, 80, 10];
 
-const sum = (accumulator, element) =>           //accumulator = previous value
+const sum = (accumulator, element) =>       //accumulator = previous value
 {                                           //element = next value
     return accumulator + element;
 }
