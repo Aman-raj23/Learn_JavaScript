@@ -18,8 +18,6 @@ function intro(firstName, lastName, ...hobbies) {
 intro("Aman", "Raj", "Reading", "Coding", "Traveling");
 
 
-
-
 let person = (firstName, lastName, ...hobbies) => {
     console.log(`Name: ${firstName} ${lastName}`);
     console.log(`Hobbies: ${hobbies.join(", ")}`);
