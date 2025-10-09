@@ -34,7 +34,7 @@
 
 let colors = ["Red", "Green", "Blue", "Yellow", "Pink"];
 for (let i = 0; i < colors.length; i++) {
-    console.log(colors[i]);  // Output each element of the array
+        console.log(colors[i]);  // Output each element of the array
 }
 
 //-------------Iterating through an array using for...of loop------
