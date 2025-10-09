@@ -30,7 +30,6 @@
 // console.log(colors);        // Output the updated array
 
 
-
 // //-------------Iterating through an array using for loop-------- 
 
 let colors = ["Red", "Green", "Blue", "Yellow", "Pink"];
