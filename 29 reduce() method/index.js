@@ -24,7 +24,6 @@ console.log(count);
 
 
 
-
 let count1 = fruits.reduce((acc, fruit) => {             // function expression
      acc[fruit] = (acc[fruit] || 0) + 1;
     return acc;
