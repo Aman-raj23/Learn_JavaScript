@@ -20,6 +20,7 @@ let students = 20;
 // students %= 3;            // (modulo)
 
 // students++;
+
 students--;
 
 console.log(students);
