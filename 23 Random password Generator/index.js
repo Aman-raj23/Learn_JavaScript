@@ -5,6 +5,7 @@ function generatePassword(length) {
     if (length < 6) {
         return `Password length should be at least 6 characters.`;
     }
+        
     else {
         for (let i = 0; i < length; i++) {
         const randomIndex = Math.floor(Math.random() * characters.length);
