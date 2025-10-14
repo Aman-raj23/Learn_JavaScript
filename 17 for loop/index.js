@@ -1,8 +1,4 @@
 
-for(i = 10; i > 0; i--) {
-    console.log("Countdown : " +i+ "<br>")  
-}
-console.log("Happy Birthday");
 
 
 //=============================
