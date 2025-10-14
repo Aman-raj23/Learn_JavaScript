@@ -6,7 +6,8 @@
 let text = "JavaScript";
 
 console.log(text.slice(0, 4));   
-
+console.log(text.slice(4));     
+console.log(text.slice(-6, -3));
 
 
 //-------substring(start, end)---------
