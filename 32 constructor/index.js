@@ -13,9 +13,6 @@ let person1 = new Person("John", 21);
 let person2 = new Person("Walter", 30);
 
 console.log(person1.name);
-person1.greet(); 
-person2.greet(); 
-
 
 //--------------------------------------------
 
