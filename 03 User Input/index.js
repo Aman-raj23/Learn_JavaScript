@@ -26,8 +26,7 @@ document.getElementById("mySubmit").onclick = function(){
     age = document.getElementById("myAge").value;
     console.log(firstName +" "+ lastName);
     // console.log(lastName);
-    console.log(age);
-    document.getElementById("info").textContent = `Hello ${firstName+" "+lastName}`;
+    
 
 
 }
