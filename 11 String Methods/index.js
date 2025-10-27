@@ -32,8 +32,7 @@ let messy = "  clean me  ";
 
 console.log(messy.trim());              //  "clean me"
 console.log(messy.trimStart());         //  "clean me  "
-console.log(messy.trimEnd());           //  "  clean me"
-console.log("a,b,c".split(","));        //  ["a", "b", "c"]
+
 
 //--------------Other Useful----------------
 console.log("Hi".concat(" there"));     //  "Hi there"
