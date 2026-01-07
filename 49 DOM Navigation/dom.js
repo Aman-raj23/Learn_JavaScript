@@ -20,6 +20,6 @@ function showChildren() {
 // ========== 3. Show siblings of Item 2 ========== 
 function showSiblings() {
     let prev = item2.previousElementSibling ? item2.previousElementSibling.textContent : "None";
-   
+    let next = item2.nextElementSibling ? item2.nextElementSibling.textContent : "None";
     output.textContent = `Previous: ${prev}, Next: ${next}`;
 }
