@@ -32,31 +32,3 @@ console.log(person1.name);
 
 //%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-class Employee {
-  constructor(name, salary) {
-    this._name = name;
-    this._salary = salary;
-  }
-
-  get salary() {
-    return this._salary;
-  }
-
-  set salary(amount) {
-    if (amount < 0) {
-      console.log("Salary cannot be negative!");
-    } else {
-      this._salary = amount;
-    }
-  }
-}
-
-let emp = new Employee("Aman", 30000);
-
-console.log(emp.salary);  
-
-emp.salary = 40000;       
-console.log(`Updated Salary: ${emp.salary}`);  
-
-emp.salary = -5000;        // Invalid
-
