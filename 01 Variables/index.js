@@ -16,8 +16,8 @@ const PI = 3.1416;
 console.log(PI); // 3.1416
 
 
-//==========================================================
 
+//==========================================================
 
 
 // var example
@@ -52,6 +52,7 @@ console.log(a); // Works (var is function/global scoped)
 // console.log(c); //  Error (const is block scoped)
 
 
+//==========================================================
 //==================== var example =========================
 
 var passengerName = "Aman"; // var works inside the whole function
