@@ -24,8 +24,9 @@ console.log(str.startsWith("Hell"));    //  true
 console.log(str.endsWith("rld"));       //  true
 
 //--------------Replace------------------
-// console.log(str.replace("World", "JS"));        //  "Hello JS"
-// console.log("ha-ha-ha".replaceAll("ha", "ho")); //  "ho-ho-ho"
+console.log(str.replace("World", "JS"));        //  "Hello JS"
+console.log("ha-ha-ha".replaceAll("ha", "ho")); //  "ho-ho-ho"
+console.log("he-he-he".replaceAll("he", "haa")); 
 
 //--------------Whitespace & Split----------------
 let messy = "  clean me  ";
