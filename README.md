@@ -5,6 +5,12 @@ This repo is designed to help beginners and intermediate learners understand Jav
 
 ---
 
+## 📚 Learning in Progress
+I am currently exploring **Advanced JavaScript**, and new folders will be added here as I learn.  
+
+
+---
+
 ## 📂 Repository Structure
 - Each folder contains a specific **JavaScript concept** (e.g., Variables, Loops, Functions, etc.).
 - Inside every folder:
@@ -19,11 +25,6 @@ Along with examples, you’ll also find **small projects** to practice:
 - Counter Program ⏱  
 - And more coming soon...
   
----
-
-## 📚 Learning in Progress
-I am currently exploring **Advanced JavaScript**, and new folders will be added here as I learn.  
-
 ---
 
 ## 🙌 Credits
