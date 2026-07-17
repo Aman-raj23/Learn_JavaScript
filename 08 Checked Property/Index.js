@@ -21,7 +21,7 @@ checkbox.addEventListener("change", function() {
 
 submit.onclick = function() {
     if (!checkbox.checked && (Option1.checked || Option2.checked || Option3.checked)) {
-        message.textContent = "Please check the checkbox to then Select an option.";
+        message.textContent = "Please check the checkbox then Select an option.";
         return;
     }
     if (checkbox.checked) {
