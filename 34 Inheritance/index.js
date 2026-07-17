@@ -17,8 +17,6 @@ class User1 extends User {
 class User2 extends User {
     name = "John";
     age = 30;
-
-
 }
 
 const user1 = new User1();
@@ -29,6 +27,7 @@ user1.sayAge();
 
 user2.sayName();
 user2.sayAge();
+
 
 
 //%%%%%%%%%%%%%%%% example 2 %%%%%%%%%%%%%%%%%%
@@ -53,3 +52,4 @@ class Dog extends Animal {
 let dog1 = new Dog("Tommy");
 dog1.sound();
 dog1.bark(); 
+

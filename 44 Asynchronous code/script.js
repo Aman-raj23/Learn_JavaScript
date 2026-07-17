@@ -15,7 +15,7 @@
 function func1(callback){
     console.log('Start');
     setTimeout(() => {console.log('Processing... (after 4 seconds)');
-                     callback();}, 3000);
+                     callback();}, 4000);
 }
 
 function func2(){

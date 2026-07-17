@@ -29,7 +29,6 @@ btn.addEventListener("click", function() {
         message.textContent = `Too high! Try again.`;
         inputNum.value = '';
     }
-
 });
 
 resetBtn.addEventListener("click", function() {

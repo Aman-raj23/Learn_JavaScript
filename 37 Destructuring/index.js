@@ -9,7 +9,6 @@ console.log(a);
 console.log(b);
 
 
-
 // =============== e.g-2 (SWAP TWO ELEMENTS IN ARRAY)=============
 
 let colors = ["blue", "red", "green", "black", "pink"];
@@ -19,9 +18,7 @@ let colors = ["blue", "red", "green", "black", "pink"];
 console.log(colors);
 
 
-
 // =============== e.g-3 (ASSIGN ELEMENTS OF ARRAY IN VARIABLES)=============
-
 
 let colors1 = ["blue", "red", "green", "black", "pink"];
 

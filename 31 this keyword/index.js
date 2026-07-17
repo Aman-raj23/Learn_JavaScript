@@ -8,7 +8,6 @@ person1.sayHello();
 person1.work();
 
 
-
 //======== Doesn't work with arrow functions ========
 
 

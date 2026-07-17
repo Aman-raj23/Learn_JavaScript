@@ -4,7 +4,6 @@ class Person {
     this._age = age;
   }
 
-
   // Setter
   set name(newName) {
     if (newName.length > 0) {
@@ -13,7 +12,6 @@ class Person {
       console.error("Name cannot be empty!");
     }
   }
-
 
   // Getter
   get name() {
@@ -33,7 +31,6 @@ console.log(person1.name);
 
 
 //%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 class Employee {
   constructor(name, salary) {

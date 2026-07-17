@@ -28,6 +28,7 @@ document.getElementById("mySubmit").onclick = function(){
     // console.log(lastName);
     console.log(age);
     document.getElementById("info").textContent = `Hello ${firstName+" "+lastName}`;
+    
 
 
 }

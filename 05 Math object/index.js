@@ -10,6 +10,7 @@ const valC = 5;
 
 console.log("--- Most Used Math Functions (Concise) ---");
 
+
 // Rounding
 console.log(`Math.round(${num1}):`, Math.round(num1));
 console.log(`Math.floor(${num1}):`, Math.floor(num1));
