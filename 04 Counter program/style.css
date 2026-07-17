@@ -33,6 +33,7 @@ h1{
     cursor: pointer;
     background-color: rgb(115, 209, 236);
     transition: ease-in-out 0.2s;
+    
 }
 
 .btn:hover{

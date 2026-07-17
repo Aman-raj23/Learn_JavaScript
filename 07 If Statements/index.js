@@ -24,7 +24,7 @@ else if (b == 15) {
     document.write("b is equal to 15");
 }
 else if (b == 20) {
-    document.write("b is equal to 20");
+    document.write("b is equal to 20 \n");
 }
 else {
     document.write("b is not equal to 10, 15 or 20");
