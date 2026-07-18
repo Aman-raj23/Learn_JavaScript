@@ -20,3 +20,11 @@ add2(5, 14);
 const user = (name, age) => { console.log(`Name: ${name}\nAge: ${age}`);}
 user("Raj", 20);
 
+
+
+//=================================
+
+
+const sayHello = () => {console.log(`HELLO`)};
+
+sayHello();
