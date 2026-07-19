@@ -35,7 +35,7 @@ console.log(happyBirthday("Raj", 20));
 //-----------------------OR-------------------
 
 
-let modulo = function(x, y) { return x % y; } 
+let modulo = function(x, y) { return x % y; }
 
 let moduloRes = modulo(17, 3);
 console.log(moduloRes);

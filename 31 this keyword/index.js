@@ -1,7 +1,7 @@
 const person1 = {
     name: "Sam",
     age: 24,
-    sayHello: function() { console.log(`hey! I'm ${this.name}`)},       // this.name = person1.name
+    sayHello: function() { console.log(`hey! I'm ${name}`)},       // this.name = person1.name
     work: function() { console.log(`${this.name} is not Working!`)}
 }
 person1.sayHello();
