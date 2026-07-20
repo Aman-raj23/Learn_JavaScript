@@ -26,12 +26,12 @@ console.log(d);
 let today = new Date();
 
 console.log(today.getFullYear());  
-console.log(today.getMonth());     
-console.log(today.getDate());      
-console.log(today.getDay());      
-console.log(today.getHours());    
-console.log(today.getMinutes()); 
-console.log(today.getSeconds());   
+console.log(today.getMonth());
+console.log(today.getDate());
+console.log(today.getDay());
+console.log(today.getHours());
+console.log(today.getMinutes());
+console.log(today.getSeconds());
 console.log(today.getTime());
 
 
@@ -51,15 +51,16 @@ console.log(datee);
 
 // %%%%%%%%%%%% FORMATTING DATES %%%%%%%%%%%%%%%
 
+
 let to_day = new Date();
 
-console.log(to_day.toDateString());   
-console.log(to_day.toTimeString());  
+console.log(to_day.toDateString()); 
+console.log(to_day.toTimeString());
 
-console.log(to_day.toISOString());    
+console.log(to_day.toISOString());
 
 
-//=========================
+//===============================
 
 
 let now = Date.now();
