@@ -34,8 +34,8 @@ console.log(extraColors);
 // =============== e.g-4 (EXTRACT VALUES FROM OBJECTS)=============
 
 const person1 = { 
-    name: "Walter", 
-    age: 20, 
+    name: "Walter",
+    age: 20,
     city: "Delhi" 
 };
 
