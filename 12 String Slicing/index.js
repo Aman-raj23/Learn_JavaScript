@@ -1,6 +1,3 @@
-//  string slicing = string slicing means extracting part of a string using methods like slice(), substring(), or substr()
-
-
 //-------slice(start, end)---------
 
 let text = "JavaScript";
