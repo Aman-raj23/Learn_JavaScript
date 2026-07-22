@@ -10,7 +10,7 @@ let randomNum = Math.floor(Math.random()*(max-min+1)) + min;
 
 let attempt = 0;
 
-btn.addEventListener("click", function() {
+ function guess() {
     let number = parseInt(inputNum.value);
     attempt++;
     attempts.textContent = `Attempts: ${attempt}`;
@@ -29,7 +29,7 @@ btn.addEventListener("click", function() {
         message.textContent = `Too high! Try again.`;
         inputNum.value = '';
     }
-});
+};
 
 resetBtn.addEventListener("click", function() {
     randomNum = Math.floor(Math.random() * (max - min + 1)) + min;
