@@ -13,3 +13,18 @@ function simulateClick() {
     cb.dispatchEvent(evt);
 }
 document.getElementById("button").addEventListener("click", simulateClick);
+
+
+// %%%%%%%%%%%%%% DEMO 2 %%%%%%%%%%%%
+
+
+const text= document.getElementById("text")
+
+text.addEventListener("mouseover", function () {
+    this.style.color = "red";
+});
+
+
+text.addEventListener("mouseout", function () {
+    this.style.color = "green";
+});
