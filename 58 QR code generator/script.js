@@ -1,3 +1,6 @@
+// free QR code generator api = QR server API ("https://api.qrserver.com/v1/create-qr-code/")
+
+
 const qrText = document.getElementById("qrText");
 const generateBtn = document.getElementById("generateBtn");
 const qrImage = document.getElementById("qrImage");
