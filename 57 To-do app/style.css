@@ -6,7 +6,7 @@
 }
 
 body{
-    background:#f4f4f4;
+    background:#3f3f3f;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -14,16 +14,17 @@ body{
 }
 
 .container{
-    background:white;
+    background: linear-gradient(60deg, hsl(240, 91%, 65%), hsl(120, 95%, 65%));
     width:400px;
     padding:20px;
     border-radius:10px;
-    box-shadow:0 0 10px rgba(0,0,0,0.2);
+    box-shadow:2px 2px 10px hsla(0, 0%, 0%, 0.989);
 }
 
 h1{
     text-align:center;
     margin-bottom:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .input-box{

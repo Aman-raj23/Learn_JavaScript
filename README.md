@@ -14,15 +14,15 @@ I am currently exploring **Advanced JavaScript**, and new folders will be added 
 ## 📂 Repository Structure
 - Each folder contains a specific **JavaScript concept** (e.g., Variables, Loops, Functions, etc.).
 - Inside every folder:
-  - `index.html` → contains definitions and explanation notes.  
+  - `index.html` → contains definitions and explanation notes. 
   - `index.js` / `script.js` → contains the working JavaScript code.
   - 
 ---
 
 ## 🛠 Mini Projects
 Along with examples, you’ll also find **small projects** to practice:
-- Number Guessing Game   
-- Counter Program ⏱  
+- Number Guessing Game
+- Counter Program ⏱
 - And more coming soon...
   
 ---
