@@ -4,6 +4,7 @@
 const qrText = document.getElementById("qrText");
 const generateBtn = document.getElementById("generateBtn");
 const qrImage = document.getElementById("qrImage");
+const downloadBtn = document.getElementById("downloadBtn");
 
 generateBtn.addEventListener("click", generateQR);
 
@@ -20,5 +21,7 @@ function generateQR(){
     `https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=${encodeURIComponent(text)}`;
 
     qrImage.style.display = "block";
+    downloadBtn.style.display = "block";
+
 
 }
