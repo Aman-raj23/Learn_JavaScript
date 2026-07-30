@@ -2,9 +2,9 @@
 
 let text = "JavaScript";
 
-console.log(text.slice(0, 4));   
-console.log(text.slice(4));     
-console.log(text.slice(-6, -3));
+console.log(text.slice(0, 4));    // Java
+console.log(text.slice(4));       // Script
+console.log(text.slice(-6, -3));  // Scr
 
 
 //-------substring(start, end)---------
